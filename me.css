@@ -5,14 +5,25 @@
 }
 
 .intro img {
-    border-radius: 20%;
-    max-width: 30%;
-    max-height: 30%;
-    border: 7px solid white
+    border-radius: 35%;
+    max-width: 15%;
+    max-height: 15%;
+    border: 5px solid white
 }
 
 body{ background-color:#9b59b6 }
 
 a{
-    color: #e74c3c
+    color: #e4a098
+}
+
+.lista-linha {
+    padding-left: 0;
+    list-style: none;
+}
+.lista-linha li{
+    display: inline-block;
+}
+.espaco-icone {
+    margin-left: 5%
 }
